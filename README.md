@@ -101,10 +101,4 @@ docker build -t blog-fastapi .
 docker run -p 8000:8000 --env-file .env blog-fastapi
 ```
 
-## Acknowledgements
 
-Built while following Corey Schafer's [FastAPI Tutorials](https://www.youtube.com/@coreyms) series.
-
-## Author
-
-**Vishesh Kathuria** – [GitHub](https://github.com/ViShEsHK2412)
